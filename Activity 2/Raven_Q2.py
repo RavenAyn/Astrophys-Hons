@@ -1,6 +1,3 @@
-"Reuben Aucamp; ACMREU001"
-
-
 a=32
 print('You get 20 chances to guess a number between 0 and 99, if you get it, the world doesnt end,')
 print('but if you dont, *boom*')
