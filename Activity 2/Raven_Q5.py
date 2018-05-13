@@ -1,5 +1,3 @@
-"Reuben Aucamp; ACMREU001"
-
 import numpy as np
 
 x=raw_input('Gimme a sentance to reverse: ')
