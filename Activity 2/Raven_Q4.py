@@ -1,5 +1,3 @@
-"Reuben Aucamp; ACMREU001"
-
 for i in range(98):
     c=str(99-i)
     print(c+' bottles of beer on the wall, '+c+' bottles of beer.')
