@@ -1,5 +1,3 @@
-"Reuben Aucamp; ACMREU001"
-
 import numpy as np
 
 print('Enter Numbers to average below, enter -999 to submit numbers for averaging')
