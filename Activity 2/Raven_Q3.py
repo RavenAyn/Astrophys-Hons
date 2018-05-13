@@ -1,5 +1,3 @@
-"Reuben Aucamp; ACMREU001"
-
 import math as m
 
 c=input("Gimme a number to scream really loud! (to make a factorial of:) ")
