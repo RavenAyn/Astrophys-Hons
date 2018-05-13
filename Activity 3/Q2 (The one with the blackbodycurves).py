@@ -1,4 +1,3 @@
-#Reuben Aucamp, ACMREU001
 import numpy as np
 import pylab as plt
 h=6.626*10**-34
