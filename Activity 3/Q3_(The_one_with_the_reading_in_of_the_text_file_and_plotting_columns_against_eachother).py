@@ -1,5 +1,3 @@
-#Reuben Aucamp ACMREU001
-
 import numpy as np
 import pylab as plt
 
